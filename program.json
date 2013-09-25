@@ -1,0 +1,10 @@
+{
+	"boot": {
+		"package": "./package.json"
+	},
+	"config": {
+		"github.com/pinf-io/io.pinf.nodejs": {
+			"scriptPath": "$__DIRNAME/test/assets/server.js"
+		}
+	}
+}
